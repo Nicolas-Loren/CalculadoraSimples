@@ -1,0 +1,14 @@
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
